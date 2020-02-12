@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/lol/static/css/main.490f8fc1.chunk.css",
-    "main.js": "/lol/static/js/main.2ee8ad84.chunk.js",
-    "main.js.map": "/lol/static/js/main.2ee8ad84.chunk.js.map",
+    "main.css": "/lol/static/css/main.0e353202.chunk.css",
+    "main.js": "/lol/static/js/main.3873c231.chunk.js",
+    "main.js.map": "/lol/static/js/main.3873c231.chunk.js.map",
     "runtime-main.js": "/lol/static/js/runtime-main.2597b635.js",
     "runtime-main.js.map": "/lol/static/js/runtime-main.2597b635.js.map",
-    "static/js/2.d102b65f.chunk.js": "/lol/static/js/2.d102b65f.chunk.js",
-    "static/js/2.d102b65f.chunk.js.map": "/lol/static/js/2.d102b65f.chunk.js.map",
+    "static/js/2.08e52fd9.chunk.js": "/lol/static/js/2.08e52fd9.chunk.js",
+    "static/js/2.08e52fd9.chunk.js.map": "/lol/static/js/2.08e52fd9.chunk.js.map",
     "index.html": "/lol/index.html",
-    "precache-manifest.ae29a8368cfcd477addd5c6966255a28.js": "/lol/precache-manifest.ae29a8368cfcd477addd5c6966255a28.js",
+    "precache-manifest.0e2e4455914a74cf60c6c0eea3a360ec.js": "/lol/precache-manifest.0e2e4455914a74cf60c6c0eea3a360ec.js",
     "service-worker.js": "/lol/service-worker.js",
-    "static/css/main.490f8fc1.chunk.css.map": "/lol/static/css/main.490f8fc1.chunk.css.map",
-    "static/js/2.d102b65f.chunk.js.LICENSE.txt": "/lol/static/js/2.d102b65f.chunk.js.LICENSE.txt",
+    "static/css/main.0e353202.chunk.css.map": "/lol/static/css/main.0e353202.chunk.css.map",
+    "static/js/2.08e52fd9.chunk.js.LICENSE.txt": "/lol/static/js/2.08e52fd9.chunk.js.LICENSE.txt",
     "static/media/RotationChampList.css": "/lol/static/media/champion.38fb1e86.png",
     "static/media/Main.css": "/lol/static/media/search_btn.29ea4961.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2597b635.js",
-    "static/js/2.d102b65f.chunk.js",
-    "static/css/main.490f8fc1.chunk.css",
-    "static/js/main.2ee8ad84.chunk.js"
+    "static/js/2.08e52fd9.chunk.js",
+    "static/css/main.0e353202.chunk.css",
+    "static/js/main.3873c231.chunk.js"
   ]
 }
